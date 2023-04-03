@@ -41,8 +41,8 @@ Upon launching the application, you'll be presented with login menu where you ne
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/sebi247/Northernbus/blob/master/Picture1.png">
 </picture>
 
-
-
+</br>
+</br>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sebi247/Northernbus/blob/master/Picture2.png">
@@ -50,8 +50,8 @@ Upon launching the application, you'll be presented with login menu where you ne
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/sebi247/Northernbus/blob/master/Picture2.png">
 </picture>
 
-
-
+</br>
+</br>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sebi247/Northernbus/blob/master/Picture3.png">
