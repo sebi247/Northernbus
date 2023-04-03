@@ -34,6 +34,24 @@ Run the Main.java file to launch the application.
 
 ## Usage
 Upon launching the application, you'll be presented with login menu where you need to use your credentials to log in to the app. After the login you will be transported to main page from where you can access different features such as searching for a route, buying a ticket and viewing your already bought tickets all using java swing frames to make it easier for the users to use.
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/sebi247/Northernbus/blob/master/Picture1.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sebi247/Northernbus/blob/master/Picture1.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/sebi247/Northernbus/blob/master/Picture1.png">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
  
 
  
